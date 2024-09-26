@@ -1,4 +1,4 @@
 a = int(input("輸入變數a："))
 b = int(input('輸入變數b：'))
 a,b = b,a
-print('a = '+str(a)+'\n'+'b = '+str(b))
+print('a = '+str(a)+'\n'+'b = '+str(b)) 
